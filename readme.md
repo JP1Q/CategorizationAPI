@@ -1,6 +1,4 @@
-Here is a template for your GitHub README file based on the provided code:
 
----
 
 # Problem Categorization API
 
